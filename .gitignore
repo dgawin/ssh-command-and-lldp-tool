@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Local settings, credentials and logs – never commit these
+*.ini
+*.key
+*.log
+*.csv
+logs/
+exports/
+log/

@@ -1,0 +1,2 @@
+paramiko>=3.0,<3.3
+pyinstaller>=6.0
